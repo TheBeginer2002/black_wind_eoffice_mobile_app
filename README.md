@@ -1,16 +1,11 @@
 # black_wind_eoffice_mobile_app
 
-A new Flutter project.
+App chấm công công ty cho nhân viên
 
-## Getting Started
+## Một số hình ảnh
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot_1665110014](https://user-images.githubusercontent.com/70203679/194564913-9c03c086-23b3-4284-b1a3-7dc2ae92d266.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1665110004](https://user-images.githubusercontent.com/70203679/194564931-912ac5cd-9040-4e6f-a59e-6c59afcd3705.png)
